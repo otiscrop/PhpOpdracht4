@@ -1,6 +1,6 @@
-ReadMe
-# PhpOpdracht4
+# ReadMe
+PhpOpdracht4
 Zwemclub(PHP)
 For ROC-Flevoland
 ©reative ©ommons
-by Otis CRop
+# by Otis CRop
